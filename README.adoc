@@ -645,7 +645,7 @@ image:bbxq.png[宝贝详情页面展示图, 75%, 75%]
 
 *_页面及其信息展示_*
 
-image:ymzs.png[页面展示图, 75%, 75%]
+image:ymzs.png[页面展示图, 85%, 85%]
 
 == Day5
 
